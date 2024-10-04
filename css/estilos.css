@@ -1,0 +1,8 @@
+@media (max-width: 768px) {
+    .miPago {
+      display: flex;
+      flex-direction: column;
+      gap: 10px; /* Espacio entre los inputs */
+    }
+  }
+  
